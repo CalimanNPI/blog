@@ -9,11 +9,14 @@ class UserController extends Controller
 {
     public function __construct()
     {
-        $this->authorizeResource(User::class);
+        // $this->authorizeResource(User::class);
     }
 
     public function index()
     {
+
+
+        return view('greeting', ['name' => 'Victoria']);
         return response()->json(User::all());
     }
 }
