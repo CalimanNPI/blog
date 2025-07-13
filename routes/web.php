@@ -18,8 +18,9 @@ use Illuminate\Support\Facades\Route;
 //     return ['Laravel' => app()->version()];
 // });
 
+Route::apiResource('user', UserController::class);
 
-
-Route::get('/', [UserController::class, 'index']);
+// Route::get('/user', [UserController::class, 'index']);
+// Route::get('/user/{id}', [UserController::class, 'show']);
 
 require __DIR__ . '/auth.php';

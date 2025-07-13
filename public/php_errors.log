@@ -1,0 +1,21 @@
+[13-Jul-2025 00:14:50 UTC] GET /user HTTP/1.1
+Accept:                    text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding:           gzip, deflate, br, zstd
+Accept-Language:           es-419,es;q=0.9
+Cache-Control:             max-age=0
+Connection:                keep-alive
+Cookie:                    XSRF-TOKEN=eyJpdiI6IlcwK1lQMGx5OVdCZi9jUW1VMzdJQ0E9PSIsInZhbHVlIjoiNjFzN05oelRPaThuSUZ1TEhlbUdvKzJWcHpjQnR3eE1GWFlOaGFMbFI0Um1QM2QvVlFrLzBnaXIzY3ArNFJJaUxuMmxpRHRVS3pIbkxIWEUrc29CalpHZy9DelJZV0Z3K1JxMlRtR2N2R2RpcCtHZlNhYmdwZ3lHK0RHRjZYMGQiLCJtYWMiOiIzNjBkNTYzMzJlYjA1YmYwMDM2ZmJhNThhODYyN2MxZmZlYmI2ZWU2Yjk4NWUxNDFhZGExYWRhZmNhMjFmYjlmIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6InFGMjFKMVExY21lZUNENjdBZzV2VUE9PSIsInZhbHVlIjoiMEk4YTBaNHljbHpkUzJIMVJYNDNzNmx5QlE2OU5DMkJWUjRMUkkwQk9RVzBqblhMbkl3NFluWXBHNUtxRFlML01tSzhHQmsvdmQ4RUFMQTF6QlgxMkZzVlFwb0t0ajRnZ1c5TmJaRUhHNlZxYkxzcHp4bEJtZTFocHJmT3kxMFYiLCJtYWMiOiJkMGM3MTYzZjViMWNiOTJjYzI3YTc4MzU4ODgxOTg4YTdjZjBkOTBiMGNlOTQyY2M0ZTRmYzdlMjYyZjE2MWExIiwidGFnIjoiIn0%3D
+Host:                      127.0.0.1:8000
+Sec-Ch-Ua:                 "Not)A;Brand";v="8", "Chromium";v="138", "Brave";v="138"
+Sec-Ch-Ua-Mobile:          ?0
+Sec-Ch-Ua-Platform:        "Windows"
+Sec-Fetch-Dest:            document
+Sec-Fetch-Mode:            navigate
+Sec-Fetch-Site:            none
+Sec-Fetch-User:            ?1
+Sec-Gpc:                   1
+Upgrade-Insecure-Requests: 1
+User-Agent:                Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+Cookie: XSRF-TOKEN=NUSSs3FkxdUOnSjlPgs1rnnPFJg4xZwwPKBHKqPA; laravel_session=bXzDUKJ362AWb9yTJ1G8Q3iQWVOo69BQnigiyIw7
+
+
