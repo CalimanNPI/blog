@@ -18,7 +18,7 @@ use Illuminate\Support\Facades\Route;
 //     return ['Laravel' => app()->version()];
 // });
 
-Route::apiResource('user', UserController::class);
+// Route::apiResource('user', UserController::class);
 
 // Route::get('/user', [UserController::class, 'index']);
 // Route::get('/user/{id}', [UserController::class, 'show']);
